@@ -22,7 +22,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,js,dart,python,spring,react,flutter,tailwind,html,css,git,github,mysql,postman&theme=dark&perline=5)](https://skillicons.dev)
 
-<h3 align="left">Let's Connect:</h3>
+## 💬 Let's Connect
 <p align="left">
 <a href="https://x.com/RB_Bhatti_171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rb_bhatti_171" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rushi-bhatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rushi-bhatti" height="30" width="40" /></a>
