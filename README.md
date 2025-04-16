@@ -7,7 +7,7 @@
 - 💬 Ask me about Frontend & Backend Development.
 - 🍻 Ready to work on any project Open for collaboration.
 - 📫 How to reach me **rushibhaibhatti@gmail.com**
-- 📄 See my resume: [Rushi Bhatti Resume](https://drive.google.com/drive/folders/1vuWIFPLvGNmXheyWtWJdo2NQXC8Fm12r?dmr=1&ec=wgc-drive-globalnav-goto)
+- 📄 See my resume: [**Rushi Bhatti Resume**](https://drive.google.com/drive/folders/1vuWIFPLvGNmXheyWtWJdo2NQXC8Fm12r?dmr=1&ec=wgc-drive-globalnav-goto)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushibhatti&label=Profile%20views&color=0e75b6&style=flat" alt="rushibhatti" /> </p>
 
@@ -24,10 +24,10 @@
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
-<a href="https://twitter.com/rb_bhatti_171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rb_bhatti_171" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rushi-bhatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rushi-bhatti" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/r.b.bhatti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/r.b.bhatti/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/rushi_bhatti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rushi_bhatti/" height="30" width="40" /></a>
+<a href="https://x.com/RB_Bhatti_171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rb_bhatti_171" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rushi-bhatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rushi-bhatti" height="30" width="40" /></a>
+<a href="https://www.instagram.com/r.b.bhatti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/r.b.bhatti/" height="30" width="40" /></a>
+<a href="https://leetcode.com/Rushi_Bhatti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rushi_bhatti/" height="30" width="40" /></a>
 </p>
 
 ## 📟 Github stats
