@@ -29,7 +29,3 @@
 <a href="https://www.instagram.com/r.b.bhatti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/r.b.bhatti/" height="30" width="40" /></a>
 <a href="https://leetcode.com/Rushi_Bhatti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rushi_bhatti/" height="30" width="40" /></a>
 </p>
-
-## 📟 Github stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushibhatti&show_icons=true&locale=en" alt="rushibhatti" /></p>
