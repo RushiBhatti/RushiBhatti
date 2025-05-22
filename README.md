@@ -7,7 +7,7 @@
 - 💬 Ask me about Frontend & Backend Development.
 - 🍻 Ready to work on any project Open for collaboration.
 - 📫 How to reach me **rushibhaibhatti@gmail.com**
-- 📄 See my resume: [**Rushi Bhatti Resume**](https://drive.google.com/file/d/1BZT0bmCNtUCeKUsRu7u3SJwR410uQL-6/view?usp=drivesdk)
+- 📄 See my resume: [**Rushi Bhatti Resume**](https://drive.google.com/file/d/1We8nW3_ZO4sVTlKJXGmHJ8JI_YuHZnPW/view?usp=drive_link)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushibhatti&label=Profile%20views&color=0e75b6&style=flat" alt="rushibhatti" /> </p>
 
